@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes",Gol Peru | PE
+#EXTINF:-1 tvg-id="Gol Perú" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes",Gol Peru | PE
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
