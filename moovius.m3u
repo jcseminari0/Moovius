@@ -1,10 +1,76 @@
 #EXTM3U
+--------------------- CANALES ----------------------
 #EXTINF:-1 tvg-id="Gol Perú" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Deportes",Gol Peru | PE
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/686
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",Formula 1 TV (F1)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/192
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/52
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/53
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports 3
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/54
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/34
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/35
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportess",ESPN Plus
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/37
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportess",ESPN MX
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/530
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2 MX
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/531
+#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS TNT Sports  Brasil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT Interior | BR
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/Cnc1Mqo.png" group-title="Brasil",Rede TV! Pampa | BR
@@ -13,6 +79,13 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="560" tvg-name="Band" tvg-logo="https://lh3.googleusercontent.com/-6VphUlD1L4Y/X0EdNxO1YFI/AAAAAAAA42I/eJl7n6TrfWEZn2j8HSOqg1lOBrieAjlAQCK8BGAsYHg/s0/2020-08-22.png" group-title="Brasil", Band | BR
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Peru",PERU: Latina
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/317
+--------------------- SERIES ----------------------
 #EXTINF: -1 group-title="Transformers G1" ,01 Más de lo que ven los ojos (Parte 1)
 https://ia804705.us.archive.org/26/items/transformers-primera-generacion/Transformers%20G1%20-%2001.mp4
 #EXTINF: -1 group-title="Transformers G1" ,02 Más de lo que ven los ojos (Parte 2)
