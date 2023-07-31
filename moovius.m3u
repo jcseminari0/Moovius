@@ -7,7 +7,7 @@
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/317
 
-#EXTINF:-1 tvg-id="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg" group-title="Deportes",Gol Peru | PE
+#EXTINF:-1 tvg-id="Gol Perú" tvg-logo="https://futboljobs.com/wp-content/uploads/2020/01/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="Deportes",Gol Peru | PE
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
