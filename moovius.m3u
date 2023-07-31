@@ -69,7 +69,7 @@ https://v3.playerlatino.live/stream/m3u8/530
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/531
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="Deportes",EVENTOS TNT Sports  Brasil
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",EVENTOS TNT Sports  Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
