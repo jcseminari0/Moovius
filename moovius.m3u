@@ -6,20 +6,14 @@
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/317
-
 #EXTINF:-1 tvg-id="Gol Perú" tvg-logo="https://futboljobs.com/wp-content/uploads/2020/01/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="Deportes",Gol Peru | PE
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/686
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",Formula 1 TV (F1)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/192
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png" group-title="Deportes",Liga 1 Max | PE
+http://181.177.255.253:8000/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
