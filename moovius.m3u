@@ -52,8 +52,28 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Brasil",Jovem Pan News | BR
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-id="560" tvg-name="Band" tvg-logo="https://lh3.googleusercontent.com/-6VphUlD1L4Y/X0EdNxO1YFI/AAAAAAAA42I/eJl7n6TrfWEZn2j8HSOqg1lOBrieAjlAQCK8BGAsYHg/s0/2020-08-22.png" group-title="Brasil", Band | BR
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Brasil", Band | BR
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://x.playerlatino.live/hbo.png" group-title="Brasil",HBO
+http://208.115.225.174:14136
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://x.playerlatino.live/hbo2.png" group-title="Brasil",HBO 2
+http://208.115.225.174:14140
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hboplus.png" group-title="Brasil",HBO+
+http://208.115.225.174:14152
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hbofamily.png" group-title="Brasil",HBO FAMILY
+http://208.115.225.174:14144
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Brasil",HBO Signature
+http://208.115.225.174:14160
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hbomundi.png" group-title="Brasil",HBO Mundi
+http://208.115.225.174:14148
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hbopop.png" group-title="Brasil",HBO Pop
+http://208.115.225.174:14156
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hboxtreme.png" group-title="Brasil",HBO Xtreme
+http://208.115.225.174:14165
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/universal.png" group-title="Brasil",UNIVERSAL
+http://208.115.225.174:14128
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/warnerchannel.png" group-title="Brasil",WARNER BROTHERS (WBTV)
+http://208.115.225.174:14132
 --------------------- SERIES ----------------------
 #EXTINF: -1 tvg-logo="https://loodibee.com/wp-content/uploads/transformers-Autobots-Logo-3d.png" group-title="Transformers G1" ,01 Más de lo que ven los ojos (Parte 1)
 https://ia804705.us.archive.org/26/items/transformers-primera-generacion/Transformers%20G1%20-%2001.mp4
