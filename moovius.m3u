@@ -38,20 +38,16 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://x.playerlatino.live/hbo.png" group-title="Brasil",HBO
 http://200.4.96.47:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://x.playerlatino.live/hbo2.png" group-title="Brasil",HBO 2
-http://208.115.225.174:14140
-#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hboplus.png" group-title="Brasil",HBO+
-http://208.115.225.174:14152
-#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hbofamily.png" group-title="Brasil",HBO FAMILY
-http://208.115.225.174:14144
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Brasil",HBO Signature
-http://208.115.225.174:14160
-#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hbomundi.png" group-title="Brasil",HBO Mundi
-http://208.115.225.174:14148
-#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hbopop.png" group-title="Brasil",HBO Pop
-http://208.115.225.174:14156
-#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hboxtreme.png" group-title="Brasil",HBO Xtreme
-http://208.115.225.174:14165
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png" group-title="Brasil",HBO 2
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/499
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png" group-title="Brasil",HBO+
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/497
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png" group-title="Brasil",HBO FAMILY
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/496
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature_m.png" group-title="Brasil",HBO Signature
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/498
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_max-prime_m.png" group-title="Brasil",HBO Xtreme
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/76662
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports  Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 2 Brasil
