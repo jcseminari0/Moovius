@@ -34,7 +34,7 @@ http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/494
 http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/534
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Brasil",Jovem Pan News | BR
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Brasil", Band | BR
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://www.band.uol.com.br/assets/logo-band-cinza.png" group-title="Brasil", Band | BR
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://x.playerlatino.live/hbo.png" group-title="Brasil",HBO
 http://200.4.96.47:8000/play/a025/index.m3u8
