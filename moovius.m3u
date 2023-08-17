@@ -25,8 +25,6 @@ http://45.4.55.84:8001/play/a00n
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo SP| BR
 http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/741
-#EXTINF:-1 tvg-id="GloboRJ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo RJ | BR
-https://live-01.edge-oi-bdea-ba.video.globo.com/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJnbG9ib0lkIjoiZGM0NzcyOTQtY2RmYS00MTU3LTlkOGMtZTBkZTc0YmFhMGJlIiwgInVzZXJOYW1lIjoiQ2xheXRvbiBNb2RzIiwgInBob3RvVXJsIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKd3daN0g2eVhOQTk3U2txY1plZ2pKWW40Q1ZLNndJb2tXczlPTGY9czk2LWMifQ.V3hsbeZGGc6uQKVK3j1hmZSAykfEgmaH7cRzqXt08ky8naEvikirtTlR63LBJDTtDg5JHA6UpjAEVvhUm9_bmlc5dHCDykJEBZzNX0yFVCpTAx8UtsaJRFofcjrOG1jmNJ3RSkgodob7_9YDWHW_TFjmhYxphrUCGQ_Rnak7qfY9sHWx52hWus-dsDHELmOqW4Wje571AnQUppN8AUHKcWMXsrfy92a4TbvC8SOPv7u5SwakupVF1F2oDFH_CxYmB7UF1SxLjGZgv6iwMh7F_VONGQa587vgCS8qI8E_W4PWKigPElvzQ3_RlnnOWHhmZpH07_fckjlRxYLK3fEN0lw/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=2378944.m3u8?dvr_window_length=120
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Brasil",GNT | BR
 http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/494
 #EXTINF:-1 tvg-id="Record" tvg-logo="https://www.dafont.com/forum/attach/orig/6/6/667290.png?1" group-title="Brasil",RecordTV | BR
