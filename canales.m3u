@@ -3,12 +3,6 @@
 http://181.177.255.253:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png" group-title="Peru",Liga 1 Max | PE
 http://181.177.255.253:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Entretenimiento",Discovery Turbo
-http://187.188.232.236:1021/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Entretenimiento",NBA TV
-http://187.188.232.236:1021/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/NFL-Network.svg/revision/latest?cb=20210724163525" group-title="Entretenimiento",NFL TV
-http://187.188.232.236:1021/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT Interior | BR
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://www.band.uol.com.br/assets/logo-band-cinza.png" group-title="Brasil", Band | BR
