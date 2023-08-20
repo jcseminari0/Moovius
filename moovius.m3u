@@ -11,12 +11,6 @@ http://45.4.55.84:8001/play/a054
 http://181.177.255.253:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png" group-title="Peru",Liga 1 Max | PE
 http://181.177.255.253:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Entretenimiento",Discovery Turbo
-http://187.188.232.236:1021/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Entretenimiento",NBA TV
-http://187.188.232.236:1021/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/NFL-Network.svg/revision/latest?cb=20210724163525" group-title="Entretenimiento",NFL TV
-http://187.188.232.236:1021/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://x.playerlatino.live/hbo.png" group-title="Entretenimiento",HBO
 http://45.4.55.84:8001/play/a00m
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://x.playerlatino.live/hbo2.png" group-title="Entretenimiento",HBO 2
