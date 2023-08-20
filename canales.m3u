@@ -1,9 +1,7 @@
 #EXTM3U
-Latina, http://190.61.57.2:1010/play/a042/index.m3u8
-Canal N, http://45.4.55.84:8001/play/a008
-CMD, http://45.4.55.84:8001/play/a00q
-RPP,http://45.4.55.84:8001/play/a054
+#EXTINF:-1 tvg-id="Gol Perú" group-title="Peru",Gol Peru | PE
 Gol Peru,http://181.177.255.253:8000/play/a02k/index.m3u8
+#EXTINF:-1  group-title="Peru",Liga 1 Max | PE
 Liga 1 Max,http://181.177.255.253:8000/play/a074/index.m3u8
 Discovery Turbo,http://187.188.232.236:1021/play/a018/index.m3u8
 NBA TV,http://187.188.232.236:1021/play/a05w/index.m3u8
