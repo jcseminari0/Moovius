@@ -1,62 +1,61 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LatinaPE" tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Peru",Latina | PE
-https://v3.playerlatino.live/stream/m3u8/317
+http://190.61.57.2:1010/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="CanalN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Canal_N_1999.svg/revision/latest/scale-to-width-down/1200?cb=20211010015504&path-prefix=es" group-title="Peru",Canal N
+http://45.4.55.84:8001/play/a008
+#EXTINF:-1 tvg-id="CMD" tvg-logo="https://pbs.twimg.com/media/FaTU5oRWAAATncN.png" group-title="Peru",CMD
+http://45.4.55.84:8001/play/a00q
+#EXTINF:-1 tvg-id="RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Peru",RPP
+http://45.4.55.84:8001/play/a054
 #EXTINF:-1 tvg-id="Gol Perú" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Peru",Gol Peru | PE
-https://v3.playerlatino.live/stream/m3u8/686
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",Formula 1 TV (F1)
-https://v3.playerlatino.live/stream/m3u8/192
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
-https://v3.playerlatino.live/stream/m3u8/52
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
-https://v3.playerlatino.live/stream/m3u8/53
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports 3
-https://v3.playerlatino.live/stream/m3u8/54
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN
-https://v3.playerlatino.live/stream/m3u8/34
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
-https://v3.playerlatino.live/stream/m3u8/35
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes",ESPN Plus
-https://v3.playerlatino.live/stream/m3u8/37
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN MX
-https://v3.playerlatino.live/stream/m3u8/530
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2 MX
-https://v3.playerlatino.live/stream/m3u8/531
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/wwe.png" group-title="Deportes",WWE Network
-https://v3.playerlatino.live/stream/m3u8/276
-#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS TNT Sports  Brasil
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS TNT Sports 2 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS TNT Sports 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS TNT Sports 4 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS TNT Sports 5 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
+http://181.177.255.253:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png" group-title="Peru",Liga 1 Max | PE
+http://181.177.255.253:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Entretenimiento",Discovery Turbo
+http://187.188.232.236:1021/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Entretenimiento",NBA TV
+http://187.188.232.236:1021/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/NFL-Network.svg/revision/latest?cb=20210724163525" group-title="Entretenimiento",NFL TV
+http://187.188.232.236:1021/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://x.playerlatino.live/hbo.png" group-title="Entretenimiento",HBO
+http://45.4.55.84:8001/play/a00m
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://x.playerlatino.live/hbo2.png" group-title="Entretenimiento",HBO 2
+http://45.4.55.84:8001/play/a00n
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT Interior | BR
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/Cnc1Mqo.png" group-title="Brasil",Rede TV! Pampa | BR
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo SP| BR
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/741
+#EXTINF:-1 tvg-id="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Brasil",GNT | BR
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/494
+#EXTINF:-1 tvg-id="Record" tvg-logo="https://www.dafont.com/forum/attach/orig/6/6/667290.png?1" group-title="Brasil",RecordTV | BR
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/534
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Brasil",Jovem Pan News | BR
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-id="560" tvg-name="Band" tvg-logo="https://lh3.googleusercontent.com/-6VphUlD1L4Y/X0EdNxO1YFI/AAAAAAAA42I/eJl7n6TrfWEZn2j8HSOqg1lOBrieAjlAQCK8BGAsYHg/s0/2020-08-22.png" group-title="Brasil", Band | BR
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://www.band.uol.com.br/assets/logo-band-cinza.png" group-title="Brasil", Band | BR
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",Warner Channel
-https://v3.playerlatino.live/stream/m3u8/102
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",Warner Channel Sur
-https://v3.playerlatino.live/stream/m3u8/759
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="Entretenimiento",Universal
-https://v3.playerlatino.live/stream/m3u8/137
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento",TNT Series
-https://v3.playerlatino.live/stream/m3u8/90
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Entretenimiento",Studio Universal
-https://v3.playerlatino.live/stream/m3u8/84
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/star_cinema.png" group-title="Entretenimiento",Star
-https://v3.playerlatino.live/stream/m3u8/47
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/star_classics.png" group-title="Entretenimiento",Star Classics
-https://v3.playerlatino.live/stream/m3u8/48
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="Entretenimiento",Star Fun
-https://v3.playerlatino.live/stream/m3u8/49
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://x.playerlatino.live/hbo.png" group-title="Brasil",HBO
+http://200.4.96.47:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png" group-title="Brasil",HBO 2
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/499
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png" group-title="Brasil",HBO+
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/497
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png" group-title="Brasil",HBO FAMILY
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/496
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature_m.png" group-title="Brasil",HBO Signature
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/498
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_max-prime_m.png" group-title="Brasil",HBO Xtreme
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/76662
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports  Brasil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png"group-title="Brasil",EVENTOS TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/universal.png" group-title="Brasil",UNIVERSAL
+http://208.115.225.174:14128
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/warnerchannel.png" group-title="Brasil",WARNER BROTHERS (WBTV)
+http://208.115.225.174:14132
