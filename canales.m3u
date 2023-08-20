@@ -1,17 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Gol Perú" group-title="Peru",Gol Peru | PE
-Gol Peru,http://181.177.255.253:8000/play/a02k/index.m3u8
+http://181.177.255.253:8000/play/a02k/index.m3u8
 #EXTINF:-1  group-title="Peru",Liga 1 Max | PE
-Liga 1 Max,http://181.177.255.253:8000/play/a074/index.m3u8
-Discovery Turbo,http://187.188.232.236:1021/play/a018/index.m3u8
-NBA TV,http://187.188.232.236:1021/play/a05w/index.m3u8
-SBT,https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-Globo SP,http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/741
-Band,https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://x.playerlatino.live/hbo.png" group-title="Brasil",HBO
-http://200.4.96.47:8000/play/a025/index.m3u8
-TNT Sports Brasil, https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-TNT Sports 2 Brasil, https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-TNT Sports 3 Brasil, https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-TNT Sports 4 Brasil, https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-TNT Sports 5 Brasil, https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+http://181.177.255.253:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Entretenimiento",Discovery Turbo
+http://187.188.232.236:1021/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Entretenimiento",NBA TV
+http://187.188.232.236:1021/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/NFL-Network.svg/revision/latest?cb=20210724163525" group-title="Entretenimiento",NFL TV
+http://187.188.232.236:1021/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT Interior | BR
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://www.band.uol.com.br/assets/logo-band-cinza.png" group-title="Brasil", Band | BR
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports  Brasil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
