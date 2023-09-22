@@ -4,7 +4,7 @@ http://190.61.57.2:1010/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="Gol Perú" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Peru",Gol Peru | PE
 http://45.71.252.67:8000/play/a0o1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png" group-title="Peru",Liga 1 Max | PE
-http://200.123.15.195:8000/play/a00g
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/247049
 #EXTINF:-1 tvg-id="RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Peru",RPP | PE
 http://45.71.252.67:8000/play/a0g8/index.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://www.band.uol.com.br/assets/logo-band-cinza.png" group-title="Brasil", Band | BR
