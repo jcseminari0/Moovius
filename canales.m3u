@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Gol Perú" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Peru",Gol Peru | PE
 http://45.71.252.67:8000/play/a0o1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png" group-title="Peru",Liga 1 Max | PE
-http://161.132.108.75:50001/play/a03y/index.m3u8
+http://201.218.137.227:4000/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil", TNT Sports Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil", TNT Sports 2 Brasil
