@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="LatinaPE" tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Peru",Latina | PE
 http://190.61.57.2:1010/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="Gol Perú" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Peru",Gol Peru | PE
-http://161.132.243.192:50001/play/a01n/index.m3u8
+http://38.43.150.126:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png" group-title="Peru",Liga 1 Max | PE
 http://38.43.150.126:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Peru",RPP | PE
