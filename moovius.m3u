@@ -11,8 +11,6 @@ http://45.71.252.67:8000/play/a0g8/index.m3u8
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo SC| BR
 http://191.37.250.169:8801/live/NSC/720p.m3u8
-#EXTINF:-1 tvg-id="GloboRJ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo INT| BR
-http://138.59.224.12:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Brasil",Jovem Pan News | BR
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="Record" tvg-logo="https://www.dafont.com/forum/attach/orig/6/6/667290.png?1" group-title="Brasil",RecordTV | BR
