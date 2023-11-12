@@ -21,27 +21,13 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist_7
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Brasil",GNT | BR
 http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/494
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://x.playerlatino.live/hbo.png" group-title="Brasil",HBO
-http://200.4.96.47:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png" group-title="Brasil",HBO 2
-http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/499
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png" group-title="Brasil",HBO+
-http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/497
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png" group-title="Brasil",HBO FAMILY
-http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/496
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature_m.png" group-title="Brasil",HBO Signature
-http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/498
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_max-prime_m.png" group-title="Brasil",HBO Xtreme
-http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/76662
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports  Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png"group-title="Brasil",EVENTOS TNT Sports 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 4 Brasil
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 3 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 5 Brasil
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports 4 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://x.playerlatino.live/universal.png" group-title="Brasil",UNIVERSAL
 http://208.115.225.174:14128
