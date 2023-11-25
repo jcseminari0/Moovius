@@ -21,7 +21,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist_7
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Brasil",GNT | BR
 http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/494
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png",group-title="Brasil", ⚽️.BAND SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png",group-title="Brasil", ⚽️BAND SPORTS
 https://cdn2.connectbr.com.br/Band-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
@@ -1004,6 +1004,8 @@ https://ia804703.us.archive.org/13/items/ver-don-quijote-cabalga-de-nuevo-cuevan
 https://archive.org/details/1-new-message_202301/(1)+New+Message!.mp4
 #EXTINF: 0 group-title="Cantinflas" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c5/Mario-Moreno-Cantinflas.jpg/revision/latest?cb=20100917162339&path-prefix=es", Cantinflas-2014
 https://ia804708.us.archive.org/19/items/1-new-message_202301/Cantinflas%202014.mp4
+#EXTINF:-1 tvg-logo="https://quetaltudia.com.ar/12-2022/resize_1671049787.jpg" group-title="Infantiles",Spider-Man: A través del Spider-Verso
+https://ia802700.us.archive.org/31/items/ver-spider-man-a-traves-del-spider-verso-2023/Ver%20Spider-Man%20A%20trav%C3%A9s%20del%20Spider-Verso%20%282023%29%20Online%20Latino%20HD%20-%20Cuevana%20HD.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png" group-title="Infantiles",Super Mario Bros. La pelicula
 https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_9361884.png" group-title="Infantiles", Sonic 2: La Película
