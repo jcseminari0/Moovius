@@ -9,8 +9,10 @@ http://38.43.150.126:8000/play/a04j/index.m3u8
 http://45.71.252.67:8000/play/a0g8/index.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://www.band.uol.com.br/assets/logo-band-cinza.png" group-title="Brasil", Band | BR
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
-#EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo BH| BR
+#EXTINF:-1 tvg-id="GloboBH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo BH| BR
 https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo SP| BR
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Brasil",Jovem Pan News | BR
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="Record" tvg-logo="https://www.dafont.com/forum/attach/orig/6/6/667290.png?1" group-title="Brasil",RecordTV | BR
@@ -21,7 +23,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist_7
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Brasil",GNT | BR
 http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/494
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png",group-title="Brasil", ⚽️BAND SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Brasil", ⚽️BAND SPORTS
 https://cdn2.connectbr.com.br/Band-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Brasil",EVENTOS TNT Sports Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
