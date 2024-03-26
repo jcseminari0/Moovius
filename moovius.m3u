@@ -19,10 +19,10 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Brasil",Rede TV | BR
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT | BR
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT-MG | BR
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT2 | BR
-http://209.222.97.92:16173
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT-SP | BR
+http://199.127.60.83:16170
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Brasil",GNT | BR
 http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/494
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Brasil", ⚽️BAND SPORTS
