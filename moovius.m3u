@@ -9,7 +9,7 @@ https://golazohd.com/canales/liga1max.html
 http://45.71.252.67:8000/play/a0g8/index.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://www.band.uol.com.br/assets/logo-band-cinza.png" group-title="Brasil", Band | BR
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
-#EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo SP| BR
+#EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo SP SAMSUNG| BR
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="GloboSP2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo SP2| BR
 http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/715
