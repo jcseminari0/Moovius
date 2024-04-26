@@ -29,58 +29,38 @@ https://cdn2.connectbr.com.br/Band-Sports/tracks-v1a1/mono.m3u8
 http://208.115.225.174:14128
 #EXTINF:-1 tvg-logo="https://x.playerlatino.live/warnerchannel.png" group-title="Brasil",WARNER BROTHERS (WBTV)
 http://208.115.225.174:14132
-#EXTINF:-1 group-title="Varios",Cartoon Network HD
-http://161.132.194.88:6178/play/a0pn/index.m3u8
 #EXTINF:-1 group-title="Varios",Cinecanal HD
-http://161.132.194.88:6178/play/a0we/index.m3u8
+http://181.78.71.5:4890/play/a044/index.m3u8
 #EXTINF:-1 group-title="Varios",Cinemax HD
-http://161.132.194.88:6178/play/a0wl/index.m3u8
-#EXTINF:-1 group-title="Varios", ESPN 2 HD
-http://161.132.194.88:6178/play/a0sj/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN 3 HD
-http://161.132.194.88:6178/play/a0sh/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN 4
-http://161.132.194.88:6178/play/a026/index.m3u8
+http://181.78.71.5:4890/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Varios",ESPN
+http://181.78.71.5:4890/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Varios", ESPN 2
+http://181.78.71.5:4890/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Varios",ESPN 3
+http://181.78.71.5:4890/play/a031/index.m3u8
+#EXTINF:-1 group-title="Varios",ESPN 5
+http://181.78.71.5:4890/play/a03z/index.m3u8
+#EXTINF:-1 group-title="Varios",ESPN 6
+http://181.78.64.71:16123/play/ch21
+#EXTINF:-1 group-title="Varios",ESPN 7
+http://181.78.64.71:16123/play/ch20
 #EXTINF:-1 group-title="Varios",HBO
-http://161.132.194.88:6178/play/a0xs/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO
-http://161.132.194.88:6178/play/a0xo/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO 2
-http://161.132.194.88:6178/play/a0xt/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO 2 HD
-http://161.132.194.88:6178/play/a0s6/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO Family
-http://161.132.194.88:6178/play/a0xu/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO Family HD
-http://161.132.194.88:6178/play/a0xw/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO HD
-http://161.132.194.88:6178/play/a0pl/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO PLUS
-http://161.132.194.88:6178/play/a0xr/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO POP HD
-http://161.132.194.88:6178/play/a0se/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO Plus
-http://161.132.194.88:6178/play/a0xv/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO XTREME HD
-http://161.132.194.88:6178/play/a0m0/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO XTREME SD
-http://161.132.194.88:6178/play/a00p/index.m3u8
+http://181.78.71.5:4890/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Varios",Sony
+http://181.78.71.5:4890/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Varios",STAR
+http://181.78.64.71:16123/play/ch07
 #EXTINF:-1 group-title="Varios",TNT
-http://161.132.194.88:6178/play/a0vy/index.m3u8
+http://181.78.71.5:4890/play/a04b/index.m3u8
 #EXTINF:-1 group-title="Varios",TNT HD
 http://161.132.194.88:6178/play/a0w2/index.m3u8
 #EXTINF:-1 group-title="Varios",TNT Series HD
-http://161.132.194.88:6178/play/a0p1/index.m3u8
+http://181.78.71.5:4890/play/a04v/index.m3u8
 #EXTINF:-1 group-title="Varios", Universal
-http://161.132.194.88:6178/play/a007/index.m3u8
-#EXTINF:-1 group-title="Varios",Universal Cinema SD
-http://161.132.194.88:6178/play/a0lc/index.m3u8
-#EXTINF:-1 group-title="Varios",Universal Comedy SD
-http://161.132.194.88:6178/play/a0xa/index.m3u8
-#EXTINF:-1 group-title="Varios",Universal Premiere SD
-http://161.132.194.88:6178/play/a0xi/index.m3u8
+http://181.78.71.5:4890/play/a05j/index.m3u8
 #EXTINF:-1 group-title="Varios",Warner
-http://161.132.194.88:6178/play/a0ui/index.m3u8
+http://181.78.71.5:4890/play/a03h/index.m3u8
 --------------------- SERIES ----------------------
 #EXTINF: -1 tvg-logo="https://loodibee.com/wp-content/uploads/transformers-Autobots-Logo-3d.png" group-title="Transformers G1" ,01 Más de lo que ven los ojos (Parte 1)
 https://ia804705.us.archive.org/26/items/transformers-primera-generacion/Transformers%20G1%20-%2001.mp4
