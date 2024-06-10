@@ -9,8 +9,8 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Brasil",Rede TV | BR
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT-MG | BR
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT | BR
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Brasil", ⚽️BAND SPORTS
 https://cdn2.connectbr.com.br/Band-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Varios",Cinecanal HD
