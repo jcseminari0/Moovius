@@ -48,206 +48,168 @@ http://181.78.71.5:4890/play/a05j/index.m3u8
 #EXTINF:-1 group-title="Varios",Warner
 http://181.78.71.5:4890/play/a03h/index.m3u8
 
-#EXTINF:-1 group-title="LISTA2",(INTERNET) A&E
-http://181.188.216.148:8001/play/a05i
-#EXTINF:-1 group-title="LISTA2",(SATELITE) ADN 40
-http://181.188.216.148:8001/play/a03u
-#EXTINF:-1 group-title="LISTA2",(INTERNET) ANIMAL PLANET
-http://181.188.216.148:8001/play/a05s
-#EXTINF:-1 group-title="LISTA2",(INTERNET) AZ CORAZON
-http://181.188.216.148:8001/play/a05a
-#EXTINF:-1 group-title="LISTA2",(INTERNET) CALI TV
-http://181.188.216.148:8001/play/a03r
-#EXTINF:-1 group-title="LISTA2",(INTERNET) CANAL UNO
-http://181.188.216.148:8001/play/a05z
-#EXTINF:-1 group-title="LISTA2",(INTERNET) CARACOL HD
-http://181.188.216.148:8001/play/a03o
-#EXTINF:-1 group-title="LISTA2",(INTERNET) CARTOON NETWORK
-http://181.188.216.148:8001/play/a049
-#EXTINF:-1 group-title="LISTA2",(INTERNET) CARTOONITO
-http://181.188.216.148:8001/play/a046
-#EXTINF:-1 group-title="LISTA2",(INTERNET) CINE LATINO
-http://181.188.216.148:8001/play/a04w
-#EXTINF:-1 group-title="LISTA2",(INTERNET) CINECANAL
-http://181.188.216.148:8001/play/a04x
-#EXTINF:-1 group-title="LISTA2",(INTERNET) CLARO MUSICA
-http://181.188.216.148:8001/play/a07n
-#EXTINF:-1 group-title="LISTA2",(INTERNET) CLARO SPORTS
-http://181.188.216.148:8001/play/a060
-#EXTINF:-1 group-title="LISTA2",(INTERNET) CNN ESPAÑOL
-http://181.188.216.148:8001/play/a05j
-#EXTINF:-1 group-title="LISTA2",(INTERNET) COMEDY CENTRAL
-http://181.188.216.148:8001/play/a04m
-#EXTINF:-1 group-title="LISTA2",(INTERNET) DHE
-http://181.188.216.148:8001/play/a05t
-#EXTINF:-1 group-title="LISTA2",(INTERNET) DISCOVERY CHANNEL
-http://181.188.216.148:8001/play/a05p
-#EXTINF:-1 group-title="LISTA2",(INTERNET) DISCOVERY H&H
-http://181.188.216.148:8001/play/a05k
-#EXTINF:-1 group-title="LISTA2",(INTERNET) DISCOVERY KIDS HD
-http://181.188.216.148:8001/play/a045
-#EXTINF:-1 group-title="LISTA2",(INTERNET) DISCOVERY TURBO
-http://181.188.216.148:8001/play/a05q
-#EXTINF:-1 group-title="LISTA2",(INTERNET) DISNEY CHANNEL HD
-http://181.188.216.148:8001/play/a048
-#EXTINF:-1 group-title="LISTA2",(SATELITE) DIRECTV
-http://181.188.216.148:8001/play/a053
-#EXTINF:-1 group-title="LISTA2",(SATELITE) DISTRITO COMEDIA
-http://181.188.216.148:8001/play/a07e
-#EXTINF:-1 group-title="LISTA2",(INTERNET) DPELICULA
-http://181.188.216.148:8001/play/a07o
-#EXTINF:-1 group-title="LISTA2",(INTERNET) DW ESPAÑOL
-http://181.188.216.148:8001/play/a03x
-#EXTINF:-1 group-title="LISTA2",(SATELITE) E-SPORTS
-http://181.188.216.148:8001/play/a04a
-#EXTINF:-1 group-title="LISTA2",(INTERNET) EL GOURMET
-http://181.188.216.148:8001/play/a059
-#EXTINF:-1 group-title="LISTA2",(SATELITE) ESPN
-http://181.188.216.148:8001/play/a04z
-#EXTINF:-1 group-title="LISTA2",(INTERNET) ESPN 2
-http://181.188.216.148:8001/play/a050
-#EXTINF:-1 group-title="LISTA2",(INTERNET) ESPN 3
-http://181.188.216.148:8001/play/a051
-#EXTINF:-1 group-title="LISTA2",(INTERNET) ESPN 4
-http://181.188.216.148:8001/play/a052
-#EXTINF:-1 group-title="LISTA2",(INTERNET) ESPN 5
-http://181.188.216.148:8001/play/a054
-#EXTINF:-1 group-title="LISTA2",(INTERNET) ESPN 6
-http://181.188.216.148:8001/play/a05v
-#EXTINF:-1 group-title="LISTA2",(INTERNET) ESTRELLA
-http://181.188.216.148:8001/play/a05c
-#EXTINF:-1 group-title="LISTA2",(INTERNET) FX
-http://181.188.216.148:8001/play/a04n
-#EXTINF:-1 group-title="LISTA2",(INTERNET) GARAGE TV
-http://181.188.216.148:8001/play/a04b
-#EXTINF:-1 group-title="LISTA2",(INTERNET) GOLDEN
-http://181.188.216.148:8001/play/a04l
-#EXTINF:-1 group-title="LISTA2",(SATELITE) HBO
-http://181.188.216.148:8001/play/a04o
-#EXTINF:-1 group-title="LISTA2",(SATELITE) HBO 2
-http://181.188.216.148:8001/play/a04p
-#EXTINF:-1 group-title="LISTA2",(SATELITE) HBO POP HD
-http://181.188.216.148:8001/play/a07f
-#EXTINF:-1 group-title="LISTA2",(INTERNET) HBO FAMILY
-http://181.188.216.148:8001/play/a04r
-#EXTINF:-1 group-title="LISTA2",(INTERNET) HBO XTREME
-http://181.188.216.148:8001/play/a04s
-#EXTINF:-1 group-title="LISTA2",(INTERNET) HISTORY 2
-http://181.188.216.148:8001/play/a05n
-#EXTINF:-1 group-title="LISTA2",(INTERNET) HISTORY LATINO
-http://181.188.216.148:8001/play/a05m
-#EXTINF:-1 group-title="LISTA2",(INTERNET) HOLA TV!
-http://181.188.216.148:8001/play/a040
-#EXTINF:-1 group-title="LISTA2",(INTERNET) HTV
-http://181.188.216.148:8001/play/a04h
-#EXTINF:-1 group-title="LISTA2",(INTERNET) INVESTIGACION DISCOVERY
-http://181.188.216.148:8001/play/a05o
-#EXTINF:-1 group-title="LISTA2",(SATELITE) KANAL D DRAMA
-http://181.188.216.148:8001/play/a05b
-#EXTINF:-1 group-title="LISTA2",(INTERNET) LA RED HD
-http://181.188.216.148:8001/play/a03s
-#EXTINF:-1 group-title="LISTA2",(INTERNET) LAS ESTRELLAS
-http://181.188.216.148:8001/play/a05d
-#EXTINF:-1 group-title="LISTA2",(INTERNET) MTV LIVE
-http://181.188.216.148:8001/play/a04i
-#EXTINF:-1 group-title="LISTA2",(INTERNET) NATGEO
-http://181.188.216.148:8001/play/a05r
-#EXTINF:-1 group-title="LISTA2",(INTERNET) NICKELODEON HD
-http://181.188.216.148:8001/play/a044
-#EXTINF:-1 group-title="LISTA2",(SATELITE) NICK JR
-http://181.188.216.148:8001/play/a047
-#EXTINF:-1 group-title="LISTA2",(INTERNET) NORTVISION
-http://181.188.216.148:8001/play/1
-#EXTINF:-1 group-title="LISTA2",(INTERNET) NOTICIAS CARACOL
-http://181.188.216.148:8001/play/a03p
-#EXTINF:-1 group-title="LISTA2",(INTERNET) NOW 90´S
-http://181.188.216.148:8001/play/a04d
-#EXTINF:-1 group-title="LISTA2",(INTERNET) NTN
-http://181.188.216.148:8001/play/a03z
-#EXTINF:-1 group-title="LISTA2",(INTERNET) OLD MUSIC
-http://181.188.216.148:8001/play/a04e
-#EXTINF:-1 group-title="LISTA2",(INTERNET) PARAMOUNT HD
-http://181.188.216.148:8001/play/a07h
-#EXTINF:-1 group-title="LISTA2",(INTERNET) PASIONES
-http://181.188.216.148:8001/play/a05h
-#EXTINF:-1 group-title="LISTA2",(INTERNET) PLATZI
-http://181.188.216.148:8001/play/a041
-#EXTINF:-1 group-title="LISTA2",(INTERNET) RCN HD
-http://181.188.216.148:8001/play/a03m
-#EXTINF:-1 group-title="LISTA2",(INTERNET) RCN NOVELAS
-http://181.188.216.148:8001/play/a05f
-#EXTINF:-1 group-title="LISTA2",(INTERNET) RETRO PLUS
-http://181.188.216.148:8001/play/a05x
-#EXTINF:-1 group-title="LISTA2",(INTERNET) RT ESPAÑOL
-http://181.188.216.148:8001/play/a03v
-#EXTINF:-1 group-title="LISTA2",(INTERNET) RTU
-http://181.188.216.148:8001/play/a07i
-#EXTINF:-1 group-title="LISTA2",(INTERNET) SEÑAL COLOMBIA
-http://181.188.216.148:8001/play/a03q
-#EXTINF:-1 group-title="LISTA2",(INTERNET) SONY HD
-http://181.188.216.148:8001/play/a04u
-#EXTINF:-1 group-title="LISTA2",(INTERNET) SPACE
-http://181.188.216.148:8001/play/a04k
-#EXTINF:-1 group-title="LISTA2",(INTERNET) STEREO 88
-http://181.188.216.148:8001/play/a04j
-#EXTINF:-1 group-title="LISTA2",(INTERNET) STUDIO UNIVERSAL HD
-http://181.188.216.148:8001/play/a07j
-#EXTINF:-1 group-title="LISTA2",(SATELITE) TC TELEVISION
-http://181.188.216.148:8001/play/a07k
-#EXTINF:-1 group-title="LISTA2",(SATELITE) TELEAMAZONAS
-http://181.188.216.148:8001/play/a03j
-#EXTINF:-1 group-title="LISTA2",(SATELITE) TELEMUNDO
-http://181.188.216.148:8001/play/a05e
-#EXTINF:-1 group-title="LISTA2",(SATELITE) Teen Nick
-http://181.188.216.148:8001/play/a09u
-#EXTINF:-1 group-title="LISTA2",(INTERNET) TELERITMO
-http://181.188.216.148:8001/play/a04f
-#EXTINF:-1 group-title="LISTA2",(INTERNET) TELESUR
-http://181.188.216.148:8001/play/a03w
-#EXTINF:-1 group-title="LISTA2",(SATELITE) TV PERU
-http://181.188.216.148:8001/play/a09p
-#EXTINF:-1 group-title="LISTA2",(SATELITE) TVC
-http://181.188.216.148:8001/play/a07m
-#EXTINF:-1 group-title="LISTA2",(INTERNET) TL NOVELAS
-http://181.188.216.148:8001/play/a05g
-#EXTINF:-1 group-title="LISTA2",(INTERNET) TNT
-http://181.188.216.148:8001/play/a04t
-#EXTINF:-1 group-title="LISTA2",(INTERNET) TNT SPORTS
-http://181.188.216.148:8001/play/a055
-#EXTINF:-1 group-title="LISTA2",(INTERNET) TODO NOTICIAS
-http://181.188.216.148:8001/play/a03y
-#EXTINF:-1 group-title="LISTA2",(INTERNET) TOONCAST
-http://181.188.216.148:8001/play/a042
-#EXTINF:-1 group-title="LISTA2",(INTERNET) UNIVERSAL CHANNEL HD
-http://181.188.216.148:8001/play/a07l
-#EXTINF:-1 group-title="LISTA2",(SATELITE) WARNER CHANNEL
-http://181.188.216.148:8001/play/a05y
-#EXTINF:-1 group-title="LISTA2",(INTERNET) WIN SPORTS +
-http://181.188.216.148:8001/play/a056
-#EXTINF:-1 group-title="LISTA2",(SATELITE) ECDF
-http://181.188.216.148:8001/play/a05u
-#EXTINF:-1 group-title="LISTA2",(SATELITE) ECUADOR TV
-http://181.188.216.148:8001/play/a03i
-#EXTINF:-1 group-title="LISTA2",(SATELITE) ECUAVISA
-http://181.188.216.148:8001/play/a03h
-#EXTINF:-1 group-title="LISTA2",(SATELITE) GAMAVISION
-http://181.188.216.148:8001/play/a03k
-#EXTINF:-1 group-title="LISTA2",(SATELITE) GOL TV
-http://181.188.216.148:8001/play/a04y
-#EXTINF:-1 group-title="LISTA2",(SATELITE) OROMAR TV
-http://181.188.216.148:8001/play/a03f
-#EXTINF:-1 group-title="LISTA2",(SATELITE) PANAMERICANA
-http://181.188.216.148:8001/play/a03n
-#EXTINF:-1 group-title="LISTA2",(SATELITE) Perú Mágico
-http://181.188.216.148:8001/play/a09y
-#EXTINF:-1 group-title="LISTA2",(SATELITE) RTS
-http://181.188.216.148:8001/play/a03g
-#EXTINF:-1 group-title="LISTA2",(SATELITE) STAR CHANNEL HD
-http://181.188.216.148:8001/play/a043
-#EXTINF:-1 group-title="LISTA2",(SATELITE) STINGRAY CONCERTS
-http://181.188.216.148:8001/play/a05w
-#EXTINF:-1 group-title="LISTA2",(SATELITE) VIA X SPORTS
-http://181.188.216.148:8001/play/a07p
+#EXTINF:-1 group-title="LISTA2",A&E HD
+http://190.110.110.156:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="LISTA2",AMC HD
+http://190.110.110.156:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="LISTA2",ATRES SERIES HD
+http://190.110.110.156:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="LISTA2",AXN HD
+http://190.110.110.156:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="LISTA2",America TV HD
+http://190.110.110.156:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Animal Planet HD
+http://190.110.110.156:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="LISTA2",CHV HD
+http://190.110.110.156:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="LISTA2",CNN Chile HD
+http://190.110.110.156:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Canal 13 HD
+http://190.110.110.156:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Cartoon Network HD
+http://190.110.110.156:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Cinecanal HD
+http://190.110.110.156:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Cinemax HD
+http://190.110.110.156:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Clover HD
+http://190.110.110.156:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Comedy Central HD
+http://190.110.110.156:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="LISTA2",DHE HD
+http://190.110.110.156:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Discovery H&H HD
+http://190.110.110.156:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Discovery HD
+http://190.110.110.156:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Discovery Kids HD
+http://190.110.110.156:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Discovery Theater HD
+http://190.110.110.156:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Discovery World HD
+http://190.110.110.156:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Disney HD
+http://190.110.110.156:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="LISTA2",E! HD
+http://190.110.110.156:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="LISTA2",ESPN 2 HD
+http://190.110.110.156:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="LISTA2",ESPN 2 HD
+http://190.110.110.156:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="LISTA2",ESPN 2 HD
+http://190.110.110.156:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="LISTA2",ESPN 3 HD
+http://190.110.110.156:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="LISTA2",ESPN 4 HD
+http://190.110.110.156:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="LISTA2",ESPN EXTRA HD
+http://190.110.110.156:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="LISTA2",ESPN HD
+http://190.110.110.156:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="LISTA2",ESPN HD
+http://190.110.110.156:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="LISTA2",El Gourmet HD
+http://190.110.110.156:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="LISTA2",FOX Sports 2 HD
+http://190.110.110.156:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="LISTA2",FX HD
+http://190.110.110.156:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Food Network HD
+http://190.110.110.156:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Fox Sports 1 HD
+http://190.110.110.156:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Fox Sports 3 HD
+http://190.110.110.156:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="LISTA2",GOLPERU HD
+http://190.110.110.156:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="LISTA2",GolTV HD
+http://190.110.110.156:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Golden HD
+http://190.110.110.156:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="LISTA2",HBO 2 HD
+http://190.110.110.156:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="LISTA2",HBO Family HD
+http://190.110.110.156:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="LISTA2",HBO HD
+http://190.110.110.156:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="LISTA2",HBO POP HD
+http://190.110.110.156:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="LISTA2",HBO XTREME HD
+http://190.110.110.156:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="LISTA2",HOLA TV HD
+http://190.110.110.156:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="LISTA2",History 2 HD
+http://190.110.110.156:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="LISTA2",History Channel HD
+http://190.110.110.156:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="LISTA2",ID HD
+http://190.110.110.156:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Kanal D Drama HD
+http://190.110.110.156:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="LISTA2",La Red HD
+http://190.110.110.156:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Las Estrellas HD
+http://190.110.110.156:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Latina HD
+http://190.110.110.156:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Lolly Kids HD
+http://190.110.110.156:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Love Nature HD
+http://190.110.110.156:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="LISTA2",MEGA HD
+http://190.110.110.156:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="LISTA2",MTV 00s
+http://190.110.110.156:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="LISTA2",MTV HD
+http://190.110.110.156:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="LISTA2",MTV LIVE HD
+http://190.110.110.156:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Movistar Deportes HD
+http://190.110.110.156:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="LISTA2",NTV
+http://190.110.110.156:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Nat Geo HD
+http://190.110.110.156:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Nick HD
+http://190.110.110.156:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Paramount HD
+http://190.110.110.156:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Pasiones HD
+http://190.110.110.156:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="LISTA2",STAR CHANNEL HD
+http://190.110.110.156:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="LISTA2",STAR CHANNEL HD
+http://190.110.110.156:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="LISTA2",STAR TVE HD
+http://190.110.110.156:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Sony HD
+http://190.110.110.156:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Space HD
+http://190.110.110.156:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Stingray Concerts HD
+http://190.110.110.156:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Studio Universal HD
+http://190.110.110.156:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Sun Channel HD
+http://190.110.110.156:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="LISTA2",TNT HD
+http://190.110.110.156:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="LISTA2",TNT Novelas HD
+http://190.110.110.156:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="LISTA2",TNT SPORTS HD
+http://190.110.110.156:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="LISTA2",TNT Series HD
+http://190.110.110.156:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="LISTA2",TRUTV HD
+http://190.110.110.156:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="LISTA2",TV+ HD
+http://190.110.110.156:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="LISTA2",TVN HD
+http://190.110.110.156:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="LISTA2",UNIVERSAL CHANNEL HD
+http://190.110.110.156:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="LISTA2",Warner Channel HD
+http://190.110.110.156:8000/play/a007/index.m3u8
 --------------------- SERIES ----------------------
 #EXTINF: -1 group-title="Alf" tvg-logo="https://www.pngitem.com/pimgs/m/273-2735895_alf-hd-png-transparent-png.png", T1 E1-Bienvenidos
 https://ia601403.us.archive.org/11/items/GordonShumway/S01.E01.mp4
