@@ -11,42 +11,6 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist_7
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Brasil", ⚽️BAND SPORTS
 https://cdn2.connectbr.com.br/Band-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Varios",Cinecanal HD
-http://181.78.71.5:4890/play/a044/index.m3u8
-#EXTINF:-1 group-title="Varios",Cinemax HD
-http://181.78.71.5:4890/play/a02r/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN
-http://181.78.71.5:4890/play/a03l/index.m3u8
-#EXTINF:-1 group-title="Varios", ESPN 2
-http://181.78.71.5:4890/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN 3
-http://181.78.71.5:4890/play/a031/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN 5
-http://181.78.71.5:4890/play/a03z/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN 6
-http://181.78.64.71:16123/play/ch21
-#EXTINF:-1 group-title="Varios",ESPN 7
-http://181.78.64.71:16123/play/ch20
-#EXTINF:-1 tvg-id="Gol Perú" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrmKtBwT0yy1j67ZNISMIkHdhGiga18jLmtVYc9EZdkw&s" group-title="Varios",Gol Peru | PE
-http://38.56.118.88:4000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO
-http://181.78.71.5:4890/play/a05t/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png" group-title="Peru",Liga 1 Max | PE
-https://clarovideo.absimile.com/mpd/drm.php?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMy5jbGFyb3ZpZGVvLmNvbS9icGstdHYvTElHQTFNQVgvZGFzaF9may9pbmRleC5tcGQ=&k=NzJlMzVmMmE3YmI5MzFmZTdlNDdhNjhhN2Q5NTdjNDk6NTkwMTVmMDZmMTQzNjM0MGIyYzk2YjNlNDVmNjM0MWQ=
-#EXTINF:-1 group-title="Varios",Sony
-http://181.78.71.5:4890/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Varios",STAR
-http://181.78.64.71:16123/play/ch07
-#EXTINF:-1 group-title="Varios",TNT
-http://181.78.71.5:4890/play/a04b/index.m3u8
-#EXTINF:-1 group-title="Varios",TNT HD
-http://161.132.194.88:6178/play/a0w2/index.m3u8
-#EXTINF:-1 group-title="Varios",TNT Series HD
-http://181.78.71.5:4890/play/a04v/index.m3u8
-#EXTINF:-1 group-title="Varios", Universal
-http://181.78.71.5:4890/play/a05j/index.m3u8
-#EXTINF:-1 group-title="Varios",Warner
-http://181.78.71.5:4890/play/a03h/index.m3u8
 
 #EXTINF:-1,1 Baseball Network
 http://190.109.176.90:8000/play/a07a/index.m3u8
