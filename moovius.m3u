@@ -10,7 +10,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist_7
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT | BR
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Brasil", ⚽️BAND SPORTS
-https://cdn2.connectbr.com.br/Band-Sports/tracks-v1a1/mono.m3u8
+http://supersonictv.live:8080/968896/903421/84942
 
 #EXTINF:-1 group-title="Varios", Baseball Network
 http://190.109.176.90:8000/play/a07a/index.m3u8
