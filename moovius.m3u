@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="560" tvg-name="Band" tvg-logo="https://cdn.m3u.cl/logo/560_Band.png" group-title="Brasil", Band | BR
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="GloboSP2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo RJ| BR
-https://8mwx.short.gy/GLOBORJ/index.m3u8
+http://supersonictv.live:8080/968896/903421/84940
 #EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo SP| BR
 http://supersonictv.live:8080/968896/903421/84998
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Brasil",Jovem Pan News | BR
