@@ -18,267 +18,239 @@ https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Brasil", ⚽️BAND SPORTS
 http://supersonictv.live:8080/968896/903421/84942
 
-#EXTINF:-1 group-title="Varios", Baseball Network
-http://190.109.176.90:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Varios",24 Horas TVN
+181.48.150.203:8000/play/a0sf/index.m3u8
+#EXTINF:-1 group-title="Varios",A&E
+181.48.150.203:8000/play/a0sl/index.m3u8
 #EXTINF:-1 group-title="Varios",A&E HD
-http://190.109.176.90:8000/play/a003/index.m3u8
+181.48.150.203:8000/play/a0d8/index.m3u8
 #EXTINF:-1 group-title="Varios",AMC
-http://190.109.176.90:8000/play/a06o/index.m3u8
+181.48.150.203:8000/play/a0sq/index.m3u8
 #EXTINF:-1 group-title="Varios",AMC HD
-http://190.109.176.90:8000/play/a03t/index.m3u8
+181.48.150.203:8000/play/a0dk/index.m3u8
 #EXTINF:-1 group-title="Varios",ATRES SERIES
-http://190.109.176.90:8000/play/a07d/index.m3u8
+181.48.150.203:8000/play/a0sp/index.m3u8
 #EXTINF:-1 group-title="Varios",ATV
-http://190.109.176.90:8000/play/a07v/index.m3u8
-#EXTINF:-1 group-title="Varios",AVIVAMIENTO
-http://190.109.176.90:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="Varios",AXN HD
-http://190.109.176.90:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Varios",America TV HD
-http://190.109.176.90:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="Varios",America Television
-http://190.109.176.90:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="Varios",Animal Planet HD
-http://190.109.176.90:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="Varios",BBC World
-http://190.109.176.90:8000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="Varios",BETHEL
-http://190.109.176.90:8000/play/a083/index.m3u8
+181.48.150.203:8000/play/a0u1/index.m3u8
+#EXTINF:-1 group-title="Varios",AXN
+181.48.150.203:8000/play/a0sk/index.m3u8
+#EXTINF:-1 group-title="Varios",AmØrica Televisiðn
+181.48.150.203:8000/play/a0tw/index.m3u8
+#EXTINF:-1 group-title="Varios",Animal Planet
+181.48.150.203:8000/play/a0s5/index.m3u8
+#EXTINF:-1 group-title="Varios",Antena 3
+181.48.150.203:8000/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="Varios",BBC NEWS
+181.48.150.203:8000/play/a0br/index.m3u8
 #EXTINF:-1 group-title="Varios",Baby TV
-http://190.109.176.90:8000/play/a08k/index.m3u8
-#EXTINF:-1 group-title="Varios",CANAL 13.
-http://190.109.176.90:8000/play/a06u/index.m3u8
-#EXTINF:-1 group-title="Varios",CANAL CAPITAL.
-http://190.109.176.90:8000/play/a06t/index.m3u8
-#EXTINF:-1 group-title="Varios",CANAL CONGRESO.
-http://190.109.176.90:8000/play/a06s/index.m3u8
-#EXTINF:-1 group-title="Varios",CANAL INSTITUCIONAL.
-http://190.109.176.90:8000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="Varios",CANAL TRO.
-http://190.109.176.90:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="Varios",CANAL UNO.
-http://190.109.176.90:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="Varios",CHV HD
-http://190.109.176.90:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Varios",CITY TV.
-http://190.109.176.90:8000/play/a074/index.m3u8
-#EXTINF:-1 group-title="Varios",CNN Chile HD
-http://190.109.176.90:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Varios",CRISTOVISION
-http://190.109.176.90:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="Varios",Canal 1 HD
-http://190.109.176.90:8000/play/a048/index.m3u8
-#EXTINF:-1 group-title="Varios",Canal 13 HD
-http://190.109.176.90:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="Varios",Canal Institucional HD
-http://190.109.176.90:8000/play/a00h/index.m3u8
+181.48.150.203:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="Varios",CNN Espaæol
+181.48.150.203:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="Varios",CableNoticias
+181.48.150.203:8000/play/a0u9/index.m3u8
+#EXTINF:-1 group-title="Varios",Canal Capital
+181.48.150.203:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="Varios",Canal 1
+181.48.150.203:8000/play/a0m5/index.m3u8
 #EXTINF:-1 group-title="Varios",Canal N
-http://190.109.176.90:8000/play/a07u/index.m3u8
+181.48.150.203:8000/play/a0u0/index.m3u8
+#EXTINF:-1 group-title="Varios",Canal TRO
+181.48.150.203:8000/play/a087/index.m3u8
+#EXTINF:-1 group-title="Varios",Canal del Congreso
+181.48.150.203:8000/play/a0bm/index.m3u8
 #EXTINF:-1 group-title="Varios",Caracol
-http://190.109.176.90:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="Varios",Caracol HD
-http://190.109.176.90:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="Varios",Cartoon Network HD
-http://190.109.176.90:8000/play/a03x/index.m3u8
+181.48.150.203:8000/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="Varios",Cartoon Network
+181.48.150.203:8000/play/a0s4/index.m3u8
 #EXTINF:-1 group-title="Varios",Cinecanal HD
-http://190.109.176.90:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="Varios",Cinemax HD
-http://190.109.176.90:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Varios",Clover HD
-http://190.109.176.90:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Varios",Comedy Central HD
-http://190.109.176.90:8000/play/a00v/index.m3u8
+181.48.150.203:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="Varios",Cinemax
+181.48.150.203:8000/play/a0m7/index.m3u8
+#EXTINF:-1 group-title="Varios",City TV
+181.48.150.203:8000/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="Varios",Comedy Central
+181.48.150.203:8000/play/a0sm/index.m3u8
+#EXTINF:-1 group-title="Varios",Cristovisiðn
+181.48.150.203:8000/play/a0ua/index.m3u8
 #EXTINF:-1 group-title="Varios",DW Espaæol
-http://190.109.176.90:8000/play/a08n/index.m3u8
+181.48.150.203:8000/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="Varios",De PelŦcula
+181.48.150.203:8000/play/a0nn/index.m3u8
 #EXTINF:-1 group-title="Varios",Discovery H&H HD
-http://190.109.176.90:8000/play/a082/index.m3u8
-#EXTINF:-1 group-title="Varios",Discovery HD
-http://190.109.176.90:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="Varios",Discovery Kids HD
-http://190.109.176.90:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="Varios",Discovery Theater HD
-http://190.109.176.90:8000/play/a03b/index.m3u8
+181.48.150.203:8000/play/a098/index.m3u8
+#EXTINF:-1 group-title="Varios",Discovery Turbo
+181.48.150.203:8000/play/a0u7/index.m3u8
 #EXTINF:-1 group-title="Varios",Discovery World HD
-http://190.109.176.90:8000/play/a03r/index.m3u8
+181.48.150.203:8000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="Varios",Disney Channel
+181.48.150.203:8000/play/a0t3/index.m3u8
 #EXTINF:-1 group-title="Varios",Disney HD
-http://190.109.176.90:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Varios",Disney Junior
-http://190.109.176.90:8000/play/a08f/index.m3u8
+181.48.150.203:8000/play/a092/index.m3u8
 #EXTINF:-1 group-title="Varios",Distrito Comedia
-http://190.109.176.90:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="Varios",E! HD
-http://190.109.176.90:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN 2 HD
-http://190.109.176.90:8000/play/a00d/index.m3u8
+181.48.150.203:8000/play/a0me/index.m3u8
+#EXTINF:-1 group-title="Varios",ESPN
+181.48.150.203:8000/play/a0ud/index.m3u8
 #EXTINF:-1 group-title="Varios",ESPN 3 HD
-http://190.109.176.90:8000/play/a00o/index.m3u8
+181.48.150.203:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Varios",ESPN 4HD
-http://190.109.176.90:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN 5HD
-http://190.109.176.90:8000/play/a03f/index.m3u8
+181.48.150.203:8000/play/a094/index.m3u8
 #EXTINF:-1 group-title="Varios",ESPN 6HD
-http://190.109.176.90:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN 7HD
-http://190.109.176.90:8000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN HD
-http://190.109.176.90:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN Premium HD
-http://190.109.176.90:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="Varios",Ecuador TV
-http://190.109.176.90:8000/play/a07l/index.m3u8
+181.48.150.203:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Varios",ESPN 7
+181.48.150.203:8000/play/a0se/index.m3u8
+#EXTINF:-1 group-title="Varios",ET Canal El Tiempo
+181.48.150.203:8000/play/a0bs/index.m3u8
+#EXTINF:-1 group-title="Varios",EWTN
+181.48.150.203:8000/play/a099/index.m3u8
 #EXTINF:-1 group-title="Varios",Ecuavisa
-http://190.109.176.90:8000/play/a07k/index.m3u8
+181.48.150.203:8000/play/a0ue/index.m3u8
+#EXTINF:-1 group-title="Varios",El Gourmet
+181.48.150.203:8000/play/a0s8/index.m3u8
 #EXTINF:-1 group-title="Varios",El Gourmet HD
-http://190.109.176.90:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Varios",ElCanaldelFutbol HD
-http://190.109.176.90:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="Varios",Enlace
-http://190.109.176.90:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="Varios",Epoca
-http://190.109.176.90:8000/play/a08p/index.m3u8
+181.48.150.203:8000/play/a0da/index.m3u8
+#EXTINF:-1 group-title="Varios",El Trece
+181.48.150.203:8000/play/a0sg/index.m3u8
+#EXTINF:-1 group-title="Varios",Eurochannel
+181.48.150.203:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="Varios",Europa Europa
+181.48.150.203:8000/play/a0bl/index.m3u8
 #EXTINF:-1 group-title="Varios",FX HD
-http://190.109.176.90:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Varios",Food Network HD
-http://190.109.176.90:8000/play/a04d/index.m3u8
+181.48.150.203:8000/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="Varios",Film&Arts
+181.48.150.203:8000/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="Varios",Fox News
+181.48.150.203:8000/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="Varios",France 24
+181.48.150.203:8000/play/a0bp/index.m3u8
 #EXTINF:-1 group-title="Varios",GLOBAL
-http://190.109.176.90:8000/play/a07w/index.m3u8
-#EXTINF:-1 group-title="Varios",GOLPERU HD
-http://190.109.176.90:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Varios",Gamavisiðn
-http://190.109.176.90:8000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="Varios",GolTV HD
-http://190.109.176.90:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="Varios",Golden HD
-http://190.109.176.90:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO 2 HD
-http://190.109.176.90:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO Family HD
-http://190.109.176.90:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO HD
-http://190.109.176.90:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="Varios",HBO XTREME HD
-http://190.109.176.90:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="Varios",HOLA TV HD
-http://190.109.176.90:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Varios",History 2 HD
-http://190.109.176.90:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="Varios",History Channel HD
-http://190.109.176.90:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Varios",ID HD
-http://190.109.176.90:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Varios",KONECTAR
-http://190.109.176.90:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="Varios",Kanal D Drama HD
-http://190.109.176.90:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="Varios",Las Estrellas HD
-http://190.109.176.90:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="Varios",Latina HD
-http://190.109.176.90:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Varios",Lolly Kids HD
-http://190.109.176.90:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="Varios",Love Nature HD
-http://190.109.176.90:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="Varios",MEGA HD
-http://190.109.176.90:8000/play/a03p/index.m3u8
+181.48.150.203:8000/play/a0u3/index.m3u8
+#EXTINF:-1 group-title="Varios",GOLPERU
+181.48.150.203:8000/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="Varios",Gol TV
+181.48.150.203:8000/play/a0m2/index.m3u8
+#EXTINF:-1 group-title="Varios",Golden
+181.48.150.203:8000/play/a0np/index.m3u8
+#EXTINF:-1 group-title="Varios",Golden Edge
+181.48.150.203:8000/play/a0mf/index.m3u8
+#EXTINF:-1 group-title="Varios",Golf Channel
+181.48.150.203:8000/play/a0sh/index.m3u8
+#EXTINF:-1 group-title="Varios",HBO Family
+181.48.150.203:8000/play/a0sr/index.m3u8
+#EXTINF:-1 group-title="Varios",HBO MUNDI
+181.48.150.203:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="Varios",HBO Plus
+181.48.150.203:8000/play/a0st/index.m3u8
+#EXTINF:-1 group-title="Varios",HBO Signature
+181.48.150.203:8000/play/a0su/index.m3u8
+#EXTINF:-1 group-title="Varios",HBO XTREME
+181.48.150.203:8000/play/a0ss/index.m3u8
+#EXTINF:-1 group-title="Varios",HGTV
+181.48.150.203:8000/play/a0u6/index.m3u8
+#EXTINF:-1 group-title="Varios",HTV
+181.48.150.203:8000/play/a0u8/index.m3u8
+#EXTINF:-1 group-title="Varios",History 2
+181.48.150.203:8000/play/a0m1/index.m3u8
+#EXTINF:-1 group-title="Varios",History Channel
+181.48.150.203:8000/play/a0s7/index.m3u8
+#EXTINF:-1 group-title="Varios",Hola TV
+181.48.150.203:8000/play/a0sb/index.m3u8
+#EXTINF:-1 group-title="Varios",Las Estrellas
+181.48.150.203:8000/play/a0sa/index.m3u8
+#EXTINF:-1 group-title="Varios",Latina
+181.48.150.203:8000/play/a0tu/index.m3u8
+#EXTINF:-1 group-title="Varios",Love Nature
+181.48.150.203:8000/play/a0u5/index.m3u8
+#EXTINF:-1 group-title="Varios",MTV
+181.48.150.203:8000/play/a0sc/index.m3u8
 #EXTINF:-1 group-title="Varios",MTV 00s
-http://190.109.176.90:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Varios",MTV LIVE HD
-http://190.109.176.90:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="Varios",Movistar Deportes HD
-http://190.109.176.90:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="Varios",NTV
-http://190.109.176.90:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Varios",Nat Geo HD
-http://190.109.176.90:8000/play/a03q/index.m3u8
+181.48.150.203:8000/play/a0sz/index.m3u8
+#EXTINF:-1 group-title="Varios",Movistar Deportes
+181.48.150.203:8000/play/a0tv/index.m3u8
+#EXTINF:-1 group-title="Varios",MÆsChic
+181.48.150.203:8000/play/a0bq/index.m3u8
+#EXTINF:-1 group-title="Varios",NTN 24 Horas
+181.48.150.203:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="Varios",National Geographic
+181.48.150.203:8000/play/a0s6/index.m3u8
 #EXTINF:-1 group-title="Varios",Nick HD
-http://190.109.176.90:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Varios",Nick Jr
-http://190.109.176.90:8000/play/a080/index.m3u8
-#EXTINF:-1 group-title="Varios",OROMAR TV
-http://190.109.176.90:8000/play/a07i/index.m3u8
+181.48.150.203:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Varios",Nickelodeon
+181.48.150.203:8000/play/a0t2/index.m3u8
+#EXTINF:-1 group-title="Varios",PLUS TV LIFE
+181.48.150.203:8000/play/a0ty/index.m3u8
 #EXTINF:-1 group-title="Varios",Panamericana
-http://190.109.176.90:8000/play/a07s/index.m3u8
+181.48.150.203:8000/play/a0tx/index.m3u8
 #EXTINF:-1 group-title="Varios",Paramount HD
-http://190.109.176.90:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="Varios",Pasiones HD
-http://190.109.176.90:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Varios",RAIZAL TV.
-http://190.109.176.90:8000/play/a073/index.m3u8
-#EXTINF:-1 group-title="Varios",RCN HD
-http://190.109.176.90:8000/play/a03m/index.m3u8
+181.48.150.203:8000/play/a0ib/index.m3u8
+#EXTINF:-1 group-title="Varios",Pasiones
+181.48.150.203:8000/play/a0so/index.m3u8
+#EXTINF:-1 group-title="Varios",Perœ MÆgico
+181.48.150.203:8000/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="Varios",Playboy
+181.48.150.203:8000/play/a0s3/index.m3u8
+#EXTINF:-1 group-title="Varios",RAI
+181.48.150.203:8000/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="Varios",RCN
+181.48.150.203:8000/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="Varios",RPP
+181.48.150.203:8000/play/a0u2/index.m3u8
 #EXTINF:-1 group-title="Varios",RTU
-http://190.109.176.90:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="Varios",SENAL COLOMBIA.
-http://190.109.176.90:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="Varios",STAR CHANNEL HD
-http://190.109.176.90:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Varios",STAR TVE HD
-http://190.109.176.90:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="Varios",Seæal Colombia HD
-http://190.109.176.90:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="Varios",Sony HD
-http://190.109.176.90:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Varios",Sony Movies
-http://190.109.176.90:8000/play/a078/index.m3u8
+181.48.150.203:8000/play/a0nq/index.m3u8
+#EXTINF:-1 group-title="Varios",STAR TVE
+181.48.150.203:8000/play/a0p8/index.m3u8
+#EXTINF:-1 group-title="Varios",Sextreme
+181.48.150.203:8000/play/a0bk/index.m3u8
+#EXTINF:-1 group-title="Varios",Sony
+181.48.150.203:8000/play/a0sj/index.m3u8
 #EXTINF:-1 group-title="Varios",Space HD
-http://190.109.176.90:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="Varios",Stingray Concerts HD
-http://190.109.176.90:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Varios",Studio Universal HD
-http://190.109.176.90:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="Varios",Sun Channel HD
-http://190.109.176.90:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="Varios",TC Televisiðn
-http://190.109.176.90:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="Varios",TELEANTIOQUIA.
-http://190.109.176.90:8000/play/a06v/index.m3u8
-#EXTINF:-1 group-title="Varios",TELECAFE.
-http://190.109.176.90:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="Varios",TELECARIBE.
-http://190.109.176.90:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="Varios",TELEISLAS.
-http://190.109.176.90:8000/play/a072/index.m3u8
-#EXTINF:-1 group-title="Varios",TELEPACIFICO.
-http://190.109.176.90:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="Varios",TELEVID.
-http://190.109.176.90:8000/play/a070/index.m3u8
+181.48.150.203:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Varios",Sun Channel
+181.48.150.203:8000/play/a0sn/index.m3u8
 #EXTINF:-1 group-title="Varios",TNT HD
-http://190.109.176.90:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Varios",TNT Novelas HD
-http://190.109.176.90:8000/play/a04k/index.m3u8
+181.48.150.203:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Varios",TNT NOVELAS
+181.48.150.203:8000/play/a0sd/index.m3u8
+#EXTINF:-1 group-title="Varios",TNT Series
+181.48.150.203:8000/play/a0mr/index.m3u8
 #EXTINF:-1 group-title="Varios",TNT Series HD
-http://190.109.176.90:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Varios",TNT Sports Premiun HD
-http://190.109.176.90:8000/play/a008/index.m3u8
+181.48.150.203:8000/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="Varios",TNT Sports Premiun SD
+181.48.150.203:8000/play/a0ub/index.m3u8
 #EXTINF:-1 group-title="Varios",TV PERU
-http://190.109.176.90:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="Varios",TV+ HD
-http://190.109.176.90:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="Varios",TVN HD
-http://190.109.176.90:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Varios",Teen Nick
-http://190.109.176.90:8000/play/a07y/index.m3u8
-#EXTINF:-1 group-title="Varios",Teleamazonas
-http://190.109.176.90:8000/play/a07h/index.m3u8
-#EXTINF:-1 group-title="Varios",Telemundo
-http://190.109.176.90:8000/play/a081/index.m3u8
+181.48.150.203:8000/play/a0tz/index.m3u8
+#EXTINF:-1 group-title="Varios",TVN
+181.48.150.203:8000/play/a0u4/index.m3u8
+#EXTINF:-1 group-title="Varios",Teleantioquia
+181.48.150.203:8000/play/a0lt/index.m3u8
+#EXTINF:-1 group-title="Varios",Telecafe
+181.48.150.203:8000/play/a088/index.m3u8
+#EXTINF:-1 group-title="Varios",Telecaribe
+181.48.150.203:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="Varios",Teleislas
+181.48.150.203:8000/play/a0bo/index.m3u8
 #EXTINF:-1 group-title="Varios",Telenovelas
-http://190.109.176.90:8000/play/a08g/index.m3u8
-#EXTINF:-1 group-title="Varios",Televicentro
-http://190.109.176.90:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Varios",Tooncast
-http://190.109.176.90:8000/play/a08q/index.m3u8
-#EXTINF:-1 group-title="Varios",TyC Sports HD
-http://190.109.176.90:8000/play/a04g/index.m3u8
+181.48.150.203:8000/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="Varios",Telepacifico
+181.48.150.203:8000/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="Varios",TyC Sports
+181.48.150.203:8000/play/a0m3/index.m3u8
 #EXTINF:-1 group-title="Varios",UNIVERSAL CHANNEL HD
-http://190.109.176.90:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Varios",Via X Esports
-http://190.109.176.90:8000/play/a07c/index.m3u8
+181.48.150.203:8000/play/a0l3/index.m3u8
+#EXTINF:-1 group-title="Varios",USA
+181.48.150.203:8000/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="Varios",Universal
+181.48.150.203:8000/play/a0ns/index.m3u8
+#EXTINF:-1 group-title="Varios",Universo
+181.48.150.203:8000/play/a0nt/index.m3u8
+#EXTINF:-1 group-title="Varios",Venus
+181.48.150.203:8000/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="Varios",WOBI
+181.48.150.203:8000/play/a0bt/index.m3u8
 #EXTINF:-1 group-title="Varios",Warner Channel HD
-http://190.109.176.90:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Varios",Win Sports HD
-http://190.109.176.90:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Varios",Win Sports+ HD
-http://190.109.176.90:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="Varios",ZOOM HD.
-http://190.109.176.90:8000/play/a071/index.m3u8
+181.48.150.203:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Varios",Win Sports
+181.48.150.203:8000/play/a0ab/index.m3u8
+#EXTINF:-1 group-title="Varios",Win Sports + HD
+181.48.150.203:8000/play/a0s2/index.m3u8
+#EXTINF:-1 group-title="Varios",Win Sports+
+181.48.150.203:8000/play/a0si/index.m3u8
