@@ -12,3 +12,7 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Brasil", ⚽️BAND SPORTS
 http://supersonictv.live:8080/968896/903421/84942
+#EXTINF:-1 tvg-id="golperu" tvg-name="GolPeru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="Internos",GolPeru
+http://192.168.18.100:8090/hls/output.m3u8
+#EXTINF:-1 tvg-id="globo" tvg-name="Globo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Internos",Globo
+http://192.168.18.100:8081/hls/globo.m3u8
