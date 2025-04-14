@@ -21,4 +21,4 @@ http://supersonictv.live:8080/968896/903421/84942
 #EXTINF:-1 tvg-id="golperu" tvg-name="GolPeru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gol_Per%C3%BA_logo_2020.svg/320px-Gol_Per%C3%BA_logo_2020.svg.png" group-title="Deportes",GolPeru
 https://x4bnd7lq.fubohd.com/golperu/mono.m3u8?token=40d454ffc1308dfe49653e93237e5b7be64ef1ae-32-1744600732-1744582732
 #EXTINF:-1 tvg-id="golperu2" tvg-name="GolPeru2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gol_Per%C3%BA_logo_2020.svg/320px-Gol_Per%C3%BA_logo_2020.svg.png" group-title="Deportes",GolPeru_Int
-http://192.168.18.100:8080/hls/output.m3u8
+http://192.168.18.100:8090/hls/output.m3u8
