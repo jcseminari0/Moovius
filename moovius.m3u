@@ -21,6 +21,5 @@ https://x4bnd7lq.fubohd.com/golperu/mono.m3u8?token=40d454ffc1308dfe49653e93237e
 
 #EXTINF:-1 tvg-id="golperu" tvg-name="GolPeru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="Internos",GolPeru
 http://192.168.18.100:8090/hls/output.m3u8
-#EXTINF:-1 tvg-id="globo" tvg-name="Globo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Internos",Globo
-http://192.168.18.100:8081/stream/playlist.m3u8
+
 
