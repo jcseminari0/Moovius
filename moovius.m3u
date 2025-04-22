@@ -9,6 +9,8 @@ https://live-as-08-17.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAi
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162393.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Brasil",Jovem Pan News | BR
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="RecordTVInteriorSP.br" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Brasil",RecordTv | BR
+http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT Interior| BR
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT MA | BR
