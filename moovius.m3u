@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="560" tvg-name="Band" tvg-logo="https://cdn.m3u.cl/logo/560_Band.png" group-title="Brasil", Band | BR
+#EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://cdn.m3u.cl/logo/560_Band.png" group-title="Brasil", Band | BR
 http://supersonictv.live:8080/968896/903421/84940
 #EXTINF:-1 tvg-id="Cultura" tvg-name="[BR] TC Cult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/885px-Cultura_logo_2013.svg.png"  group-title="Brasil", Tv Cultura | BR
 http://supersonictv.live:8080/968896/903421/85334
