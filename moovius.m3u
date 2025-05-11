@@ -19,9 +19,6 @@ https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?PlaylistM3UC
 http://supersonictv.live:8080/968896/903421/84942
 
 #EXTINF:-1 tvg-id="golperu" tvg-name="GolPeru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="Deportes",GolPeru
-https://wp9xqedt.fubohd.com/golperu/mono.m3u8?token=9b2570732e1795ba627c95b9801246c6159d1bb6-77-1745812233-1745794233
-
-#EXTINF:-1 tvg-id="golperu" tvg-name="GolPeru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="Internos",GolPeru
-http://192.168.18.100:8090/hls/output.m3u8
+https://yxdlc29tzq.fubohd.com/golperu/mono.m3u8?token=ae981fe7c59f68d53d06ff8bb29d77bf7edc05fe-ed-1747020509-1747002509
 
 
