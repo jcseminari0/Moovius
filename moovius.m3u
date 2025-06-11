@@ -18,5 +18,7 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="golperu" tvg-name="GolPeru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="Deportes",GolPeru
 https://yxdlc29tzq.fubohd.com/golperu/mono.m3u8?token=ae981fe7c59f68d53d06ff8bb29d77bf7edc05fe-ed-1747020509-1747002509
+#EXTINF:-1 tvg-id="SportTV" tvg-name="SportTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="Deportes",SportTV
+https://a2vlca.fubohd.com/sportv/mono.m3u8?token=413b0cfa084ef57756e1821f2e2e3a6c0c319325-ab-1749620623-1749602623
 
 
