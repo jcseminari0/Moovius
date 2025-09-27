@@ -15,8 +15,8 @@ https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?PlaylistM3UC
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="golperu" tvg-name="GolPeru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="Deportes",GolPeru
-https://tyg2mnl9.fubohd.com/golperu/mono.m3u8?token=6a40335228338d6c102ce419fd2f3b013f7cc727-98-1752907695-1752889695
-#EXTINF:-1 tvg-id="SportTV" tvg-name="SportTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="Deportes",SportTV
-https://a2vlca.fubohd.com/sportv/mono.m3u8?token=413b0cfa084ef57756e1821f2e2e3a6c0c319325-ab-1749620623-1749602623
+https://a2vlca.fubohd.com/golperu/mono.m3u8?token=94edc0cb61910a28850e2c257304a46820c9a750-40-1759028363-1759010363
+
+
 
 
