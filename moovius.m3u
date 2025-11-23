@@ -7,6 +7,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="EPTVCentral.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo EPTV| BR
 http://200.77.176.130:8000/udp/224.0.0.1:49152
+#EXTINF:-1 tvg-id="EPTVCentral.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo EPTV2| BR
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8845
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Brasil",Jovem Pan News | BR
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="RecordTVInteriorSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/2560px-Record_News_logo_2022.svg.png" group-title="Brasil",RecordNews | BR
