@@ -2,6 +2,7 @@
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://cdn.m3u.cl/logo/560_Band.png" group-title="Brasil", Band | BR
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://cdn.m3u.cl/logo/560_Band.png" group-title="Brasil", RBA | BR
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:-1 tvg-id="Cultura" tvg-name="[BR] TC Cult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/885px-Cultura_logo_2013.svg.png"  group-title="Brasil", Tv Cultura | BR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="EPTVCentral.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo EPTV| BR
