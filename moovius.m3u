@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://cdn.m3u.cl/logo/560_Band.png" group-title="Brasil", Band | BR
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://cdn.m3u.cl/logo/560_Band.png" group-title="Brasil", RBA | BR
 #EXTINF:-1 tvg-id="Cultura" tvg-name="[BR] TC Cult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/885px-Cultura_logo_2013.svg.png"  group-title="Brasil", Tv Cultura | BR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="EPTVCentral.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="Brasil",Globo EPTV| BR
@@ -11,11 +12,10 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT MA | BR
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brasil",SBT RJ | BR
+https://rr3---sn-2obg05-co.googlevideo.com/videoplayback?expire=1763951179&ei=620jaZXdE-3C4dUPl5vW6As&ip=38.25.95.141&id=0Iosn4Uj9uk.1&itag=140&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=301&rms=lva%2Clva&bui=AdEuB5TjqK8KHYcn6q6v_l8RqeObnWGJ9lik12UxuNYPuM8O9cumJlR8FMcK0XWS0cUKlBCJNaJbpuCy&spc=6b0G_I73srWg-ZOjngIUdZtW2CQYZhTmR7EFmnHGEhYSFBICsgwhchSHseiGSVG5&vprv=1&live=1&hang=1&noclen=1&svpuc=1&mime=audio%2Fmp4&ns=37ph-T4q2LlgWWn-KxUqi_kQ&rqh=1&gir=yes&keepalive=yes&fexp=51552689,51565115,51565682,51580968,51669166,51673847&c=WEB_EMBEDDED_PLAYER&sefc=1&n=2qMGOkLag6e-Ww&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir&sig=AJfQdSswRQIgVmhcMl7b4HP9nAARtoTP5UZ9to5uygyfoCcFBdZZLv4CIQCz_5XyQU9-DQ-gGA3-MNi0bz9sEUplFSZzNjqHwndU0A%3D%3D&alr=yes&cpn=Mkf-wIUAzaxXi4Sl&cver=1.20251118.21.00&cm2rm=sn-fpoxuuxa-aphe7d&rrc=191,40&redirect_counter=2&rm=sn-njaes76&cms_redirect=yes&cmsv=e&met=1763929595,&mh=5l&mm=38&mn=sn-2obg05-co&ms=lltf&mt=1763929214&mv=m&mvi=3&pl=24&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRQIhAJ2E3xl3gSHSQxzFHI_kBju_1hEf_MZE6YHeiVuIzpIIAiBlCYiGuNcdZ23a_yEDFRKv9ktE-BHnaj2xwaLBB2OzAQ%3D%3D&sq=71940&rn=41&rbuf=20322&pot=MlRU71XLp6KALVTSIuNYMBPLAwbka1Ma1-uXekBVgxThz0owSmbgPvoWU6Ck7F8qODescoyRARQ36ggbBLTTifLQvIHbLUD055_qfCOigveHowFnzqA=&ump=1&srfvp=1
 #EXTINF:-1 tvg-id="Tvpampa.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logotipo_da_TV_Pampa.png" group-title="Brasil",TV Pampa | BR
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="golperu" tvg-name="GolPeru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="Deportes",GolPeru
-https://aw1wcm92zq.fubohd.com/golperu/mono.m3u8?token=29051f2020c6bc511aab4cccb0a762a2ca44daab-1c-1759720902-1759702902
 
 
 
